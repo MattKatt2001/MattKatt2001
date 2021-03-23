@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @MattKatt2001 (Matthew Katsoulotos)
 - 👀 I’m interested in Computer science, powerlifting, anything fiction etc... 
-- 🌱 I’m currently learning Computer Science with a major in Data Science at Swinburne University of Technology
+- 🌱 I’m currently studying Computer Science with a major in Data Science at Swinburne University of Technology
 - 📫 How to reach me matthew.katsoulotos@gmail.com
